@@ -1,0 +1,582 @@
+﻿body {
+    margin: auto;
+}
+
+.geral {
+    background-color: white;
+    width: 1400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#branco {
+    margin-left: 100px;
+    margin-top: 200px;
+    background-color: white;
+    width: 500px;
+    height: 500px;
+    box-shadow: 0px 45px 100px rgb(0, 0, 0);
+}
+
+#vi {
+    width: 550px;
+    height: 450px;
+    margin-left: 675px;
+    margin-top: -450px;
+    position: absolute;
+}
+
+#one {
+    font-family: Calibri;
+    color: #595959;
+    font-size: 37px;
+    margin-top: -20px;
+    margin-left: 40px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    width: 420px;
+    box-sizing: border-box;
+    border-bottom: 1px solid gray;
+}
+
+strong {
+    color: #f2b513;
+}
+
+.txt {
+    font-family: Calibri;
+    font-size: 20px;
+    color: #595959;
+    margin-bottom: 50px;
+    width: 370px;
+    margin-left: 45px;
+    font-weight: bold;
+    padding-left: 40px;
+    border-bottom: 1px solid gray;
+}
+
+.bot {
+    font-family: Calibri;
+    font-size: 20px;
+    color: #595959;
+    border: solid 1.5px gray;
+    width: 160px;
+    box-sizing: border-box;
+    height: 50px;
+    border-radius: 50px;
+    padding-left: 35px;
+    padding-top: 10px;
+    margin-left: 50px;
+}
+
+    .bot:hover {
+        background-color: #f2b513;
+        color: white;
+        border: solid 1.5px white;
+    }
+
+#gg {
+    width: 100%;
+    height: 500px;
+}
+
+#cab {
+    margin-top: -490px;
+}
+
+#logo {
+    margin-left: 60px;
+    position: absolute;
+}
+
+.cabeçalho {
+    color: white;
+    font-family: Calibri;
+    margin-left: 550px;
+    font-size: 20px;
+    transition-duration: 0.5s;
+}
+
+    .cabeçalho:hover {
+        color: #f3484b;
+    }
+
+#home {
+    margin-left: 550px;
+}
+#about1{
+    margin-left:100px;
+}
+#galerry{
+    margin-left:100px;
+    
+}
+#service{
+    margin-left:100px;
+   
+}
+#cont1{
+    margin-top:-24px;
+    margin-left:1175px;
+   
+}
+a{
+    text-decoration:none;
+}
+
+
+#about {
+    color: #959595;
+    font-family: Calibri;
+    margin-left: 50px;
+    padding-top: 45px;
+    font-size: 20px
+}
+
+#of {
+    font-family: Calibri;
+    font-size: 50px;
+    color: white;
+    margin-left: 450px;
+    margin-top: 200px;
+}
+
+#mt {
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 100px;
+}
+
+#chave {
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 500px;
+}
+
+#sacola {
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 1000px;
+}
+
+.txt2 {
+    font-family: Calibri;
+    font-weight: bold;
+    color: black;
+    font-size: 20px;
+    margin-top: 250px;
+}
+
+#tu {
+    margin-left: 100px;
+    margin-top: 80px;
+}
+
+    #tu:hover {
+        color: #f2b513;
+    }
+
+#re {
+    margin-left: 500px;
+    margin-top: -45px;
+}
+
+    #re:hover {
+        color: #f2b513;
+    }
+
+#auto {
+    margin-left: 1000px;
+    margin-top: -45px;
+}
+
+    #auto:hover {
+        color: #f2b513;
+    }
+
+.cont {
+    font-family: Calibri;
+    font-size: 18px;
+    color: gray;
+    position: absolute;
+}
+
+#ever {
+    margin-left: 100px;
+    margin-top: 0px;
+}
+
+#any {
+    margin-top: -84px;
+    margin-left: 500px;
+}
+
+#anyc {
+    margin-top: -84px;
+    margin-left: 1000px;
+}
+
+#dd {
+    font-family: Calibri;
+    color: black;
+    font-size: 37px;
+    margin-left: 100px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    width: 420px;
+    margin-top: -20px;
+}
+
+strong {
+    color: #f2b513;
+}
+
+#or {
+    margin-left: 100px;
+    color: gray;
+    margin-top: 200px;
+    font-family: Calibri;
+    font-size: 20px
+}
+
+#mc1 {
+    margin-left: 140px;
+}
+
+#mc11 {
+    color: white;
+    font-family: Calibri;
+    font-size: 30px;
+    margin-top: -70px;
+    margin-left: 160px;
+}
+
+    #mc11:hover {
+        color: #f2b513;
+    }
+
+#mc22 {
+    color: white;
+    font-family: Calibri;
+    font-size: 30px;
+    margin-top: -70px;
+    margin-left: 550px;
+}
+
+    #mc22:hover {
+        color: #f2b513;
+    }
+
+#mc33 {
+    color: white;
+    font-family: Calibri;
+    font-size: 30px;
+    margin-top: -70px;
+    margin-left: 910px;
+}
+
+    #mc33:hover {
+        color: #f2b513;
+    }
+
+#t1 {
+    font-size: 20px;
+    margin-top: -25px;
+    margin-left: 160px;
+    color: white;
+    font-family: Calibri;
+}
+
+#t2 {
+    font-size: 20px;
+    margin-top: -45px;
+    margin-left: 550px;
+    color: white;
+    font-family: Calibri;
+}
+
+#t3 {
+    font-size: 20px;
+    margin-top: -25px;
+    margin-left: 910px;
+    color: white;
+    font-family: Calibri;
+    margin-top: -45px;
+}
+
+#tes {
+    margin-left: 100px;
+}
+
+.txt4 {
+    margin-left: 250px;
+    font-family: Calibri;
+    font-size: 18px;
+    color: gray;
+}
+
+#fan {
+    margin-top: -150px;
+    margin-left: 500px;
+}
+
+.nome4 {
+    font-family: Calibri;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 250px;
+}
+
+#aa {
+    font-family: Calibri;
+    color: black;
+    font-size: 37px;
+    margin-left: 100px;
+    margin-top: -30px;
+}
+
+#abe {
+    font-family: Calibri;
+    color: gray;
+    font-size: 20px;
+    margin-left: 750px;
+    margin-top: -50px;
+}
+
+.l5 {
+    margin-top: 200px;
+    color: black;
+    margin-left: 0px;
+}
+
+#esc {
+    margin-left: 100px;
+    color: gray;
+}
+
+.imp {
+    border: 0px;
+    margin-left: 120px;
+    position: absolute;
+    font-size: 20px;
+    box-shadow: 1px 5px 80px black;
+}
+
+#name {
+    width: 400px;
+    margin-top: -450px;
+}
+
+#ee {
+    width: 400px;
+    margin-top: -350px;
+}
+
+#bot2 {
+    margin-left: 220px;
+    margin-top: -230px;
+    box-sizing: border-box;
+    padding-left: 25px;
+    width: 200px;
+    height: 70px;
+    padding-top: 17px;
+    font-size: 25px;
+    border: 2px solid gray;
+}
+
+    #bot2:hover {
+        border: 2px solid white;
+    }
+
+#linha {
+    border-bottom: 2px dotted gray;
+    width: 550px;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+
+.material-icons {
+    color: #f2b513;
+    margin-left: 100px;
+    margin-top: 10px;
+}
+
+#elo {
+    color: gray;
+    font-size: 20px;
+    margin-left: 130px;
+    margin-top: -48px;
+}
+
+#ff {
+    color: gray;
+    font-size: 20px;
+    margin-left: 130px;
+    margin-top: -48px;
+}
+
+#ma {
+    color: gray;
+    font-size: 20px;
+    margin-left: 130px;
+    margin-top: -48px;
+}
+
+#mapinha {
+    height: 700px;
+    margin-left: 700px;
+    margin-top: -655px;
+    position: absolute;
+    width: 700px;
+}
+
+#mapa {
+    height: 600px;
+    margin-left: 700px;
+    margin-top: -80px;
+}
+
+.cinza {
+    width: 100%;
+    height: 500px;
+    background-color: #3c3c3c;
+    margin-top: 65px;
+}
+
+#logo2 {
+    height: 40px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.titu {
+    font-family: Calibri;
+    font-size: 30px;
+    color: white;
+    margin-left: 500px;
+    margin-top: -30px;
+}
+
+#pg {
+    margin-left: 750px;
+    margin-top: -70px;
+}
+
+#new {
+    margin-left: 900px;
+    margin-top: -67px;
+}
+
+#fimt {
+    font-family: Calibri;
+    color: white;
+    font-size: 20px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.ic {
+    height: 30px;
+    width: 30px;
+    margin-left: 100px;
+}
+
+#insta {
+    margin-left: 20px;
+}
+
+#you {
+    margin-left: 20px;
+}
+
+#twi {
+    margin-left: 20px;
+}
+
+.ic1 {
+    height: 30px;
+    width: 30px;
+    margin-left: -100px;
+    margin-top: 200px;
+    position: absolute;
+}
+
+#ccc {
+    color: white;
+    position: absolute;
+    font-family: Calibri;
+    margin-top: 200px;
+    margin-left: 100px;
+}
+
+#hor {
+    font-family: Calibri;
+    color: white;
+    font-size: 25px;
+    margin-left: 500px;
+    margin-top: -150px;
+}
+
+span {
+    color: gray;
+}
+
+.ps {
+    color: gray;
+    font-family: Calibri;
+    font-size: 20px;
+    position: absolute;
+    margin-left: 750px;
+    margin-top: -250px;
+}
+
+#ab {
+    margin-top: -220px;
+}
+
+#ga {
+    margin-top: -190px;
+}
+
+#con {
+    margin-top: -160px;
+}
+
+.imp1 {
+    position: absolute;
+    margin-left: 900px;
+    margin-top: -250px;
+    background-color: rgba(0,0,0,0);
+    border: 0px solid white;
+    border-bottom: 2px solid white;
+}
+
+#bot3 {
+    position: absolute;
+    margin-left: 900px;
+    margin-top: -190px;
+}
+
+#bb {
+    font-family: Calibri;
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    margin-left: 900px;
+    margin-top: -100px;
+}
+
+#ab {
+    font-family: Calibri;
+    color: gray;
+    font-size: 20px;
+    position: absolute;
+    margin-left: 750px;
+    margin-top: -220px;
+}
+
+#vlad {
+    color: gray;
+    margin-left: 250px;
+    margin-top: -10px;
+}
